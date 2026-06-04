@@ -2,18 +2,16 @@
 
 This repository contains my daily SQL practice as a beginner data analyst.
 
-## Topics Covered
-- SELECT statement
-- WHERE clause
-- GROUP BY (coming soon)
-- JOIN (coming soon)
+## Day 1 - SELECT & WHERE
+- SELECT statement basics
+- WHERE clause filtering
+- Parks and Recreation Database setup
+
+## Day 2 - LIKE, GROUP BY, ORDER BY
+- LIKE statement with % and _ wildcards
+- GROUP BY clause
+- ORDER BY clause (ASC & DESC)
 
 ## Tools Used
-- MySQL / SQL Server
-- Git & GitHub
-
-## Purpose
-To improve SQL skills for Data Analyst job preparation.
-
-## Daily Progress
-- Day 1: SELECT and WHERE
+- MySQL
+- GitHub for version control
