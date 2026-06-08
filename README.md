@@ -1,5 +1,4 @@
 # SQL Daily Practice
-
 This repository contains my daily SQL practice as a beginner data analyst.
 
 ## Day 1 - SELECT & WHERE
@@ -12,6 +11,12 @@ This repository contains my daily SQL practice as a beginner data analyst.
 - GROUP BY clause
 - ORDER BY clause (ASC & DESC)
 
+## Day 3 - WHERE HAVING, LIMITS, JOINS
+- WHERE vs HAVING clause
+- LIMITS + Aliasing
+- JOINS in MySQL (INNER, LEFT, RIGHT, FULL)
+
 ## Tools Used
 - MySQL
 - GitHub for version control
+- 
